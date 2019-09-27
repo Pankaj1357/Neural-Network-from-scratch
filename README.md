@@ -1,2 +1,2 @@
-# FCN-using-only-numpy
+# Neural Network from scratch(only numpy)
 bla bla bla
