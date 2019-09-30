@@ -4,4 +4,4 @@ A Fully connected neural network was build from scratch using numpy only. It had
 The built FCN was tested on Subset of CIFAR-10 dataset and it's performance was comapred with CNN models implemented using Pytorch.
 Conclusions about the performance comparison of FCN and CNN models are provided at the end of "FCN_Vs_CNN.ipynb" notebook.
 
-Intructions to run the code are given in "readme.txt" file and all requirements to run the code are in "requirements.txt" file. 
+Instructions to run the code are given in "readme.txt" file and all requirements to run the code are in "requirements.txt" file. 
